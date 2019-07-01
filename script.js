@@ -66,7 +66,12 @@ function calculateGrades() {
         }
     }
     let sum = sumPoints / totalCredits;
-    gradeBtn.innerHTML = sum.toFixed(2);
+    if(isNaN(sum)){
+        gradeBtn.innerHTML = "Something went wrong";
+    } else{
+        gradeBtn.innerHTML = sum.toFixed(2);
+    }
+    
 }
 
 function addLine() {
