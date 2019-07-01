@@ -1,7 +1,7 @@
 # gradeCalc
 A grade calculator for higher education
 
-Not certain if this is by international standards, but it is at least to Norways standard of grading
+Not certain if this is by international standards, but it is at least to Norway's standard of grading
 ```
 clone/download repository and open index.html in a browser to give it a test.
 ```
