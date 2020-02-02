@@ -1,6 +1,8 @@
 # gradeCalc
 A grade calculator for higher education
 
+Made this while learning vanilla javascript.
+
 Not certain if this is by international standards, but it is at least to Norway's standard of grading
 ```
 clone/download repository and open index.html in a browser to give it a test.
